@@ -1,5 +1,5 @@
-# DeepLearningWithMXNetGluon
+# Deep Learning with MXNet's Gluon API
 
-Support material for MLSS 2018 - Buenos Aires
+Contains slides for Machine Learning 101, which is a pre-requisite for starting the Gluon Crash Course notebooks.
 
-http://mlss2018.net.ar/
+Can be presented as slides (if you have configured [RISE](https://github.com/damianavila/RISE)) or as notebooks.
